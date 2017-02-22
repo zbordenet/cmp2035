@@ -1,20 +1,21 @@
 body {
-    font-family: helvetica;
-    background-color: #faf9fb;
+    font-family: verdana;
+    background-color: white;
     padding: 20px;}
 
 h1, h2 {
-    background-color:#606574;
-    color:#faf9fb;
+    background-color:#445ed9;
+    color:#aefced;
+    border: 10px double #f5add5;
     padding: inherit;
     border-radius: 10px}
 
 p {
-    background-color:#c9a79d;
-    color:#faf9fb;
-    border: 3px solid #A1776F;
+    background-color:#43c9e7;
+    color:white;
+    border: 2px dotted #5aeac7;
     padding: 10px;
     border-radius: 10px}
 
 i {
-    color:#e1dbe8}
+    color:#aefced}
