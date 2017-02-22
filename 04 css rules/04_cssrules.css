@@ -1,20 +1,26 @@
 body {
-    font-family: helvetica;
-    background-color: #faf9fb;
+    font-family: courier;
+    background-color: white;
     padding: 20px;}
 
 h1, h2 {
-    background-color:#606574;
-    color:#faf9fb;
+    background-color:#072ba0;
+    color:white;
+    border: 20px dashed;
+    border-color: #ccff00 #43c9e7 #ff5614 #43c9e7;
     padding: inherit;
-    border-radius: 10px}
+    border-radius: 25px}
 
 p {
-    background-color:#c9a79d;
-    color:#faf9fb;
-    border: 3px solid #A1776F;
-    padding: 10px;
-    border-radius: 10px}
+    background-color:#efb7f0;
+    color:white;
+    border: solid #d8ff30;
+    border-width: 2px 4px 12px 4px;
+    padding: 15px;
+    border-radius: 20px
+    -moz-box-shadow: -5px -5px #777777;
+    -webkit-box-shadow: -5px -5px #777777;
+    box-shadow: -5px -5px #777777;}
 
 i {
-    color:#e1dbe8}
+    color:#f0f395}
