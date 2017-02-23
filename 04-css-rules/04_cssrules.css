@@ -3,6 +3,10 @@ body {
     background-color: #faf9fb;
     padding: 20px;}
 
+h1 {
+    font-family: Georgia ;
+}
+
 h1, h2 {
     background-color:#606574;
     color:#faf9fb;
